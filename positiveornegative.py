@@ -1,5 +1,5 @@
-a=int(input("enter the number:"))
-if(a>0):
-  print("number is positive")
+ a= int(input())
+if(a%2==0):  
+    print("Even")   
 else:
-  print("number is negative")  
+    print("Odd")  
